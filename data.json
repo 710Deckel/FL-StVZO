@@ -196,6 +196,64 @@
           "wichtigkeit": "HIGH"
         }
       ]
+    },
+    {
+      "id": "1767032017693",
+      "gesetz": "StVZO",
+      "nummer": "§ 30b",
+      "titel": "§ 30b Berechnung des Hubraums",
+      "gesetzestext": "Der Hubraum ist wie folgt zu berechnen:\n1.\nFür pi wird der Wert von 3,1416 eingesetzt.\n2.\nDie Werte für Bohrung und Hub werden in Millimeter eingesetzt, wobei auf die erste Dezimalstelle hinter dem Komma auf- oder abzurunden ist.\n3.\nDer Hubraum ist auf volle Kubikzentimeter auf- oder abzurunden.\n4.\nFolgt der zu rundenden Stelle eine der Ziffern 0 bis 4, so ist abzurunden, folgt eine der Ziffern 5 bis 9, so ist aufzurunden.",
+      "quelle": "https://www.gesetze-im-internet.de/stvzo_2012/__30b.html",
+      "praxisbeispiele": [
+        {
+          "titel": "📋 HU überziehen - häufiger Fehler",
+          "klasse": "ALLE",
+          "beschreibung": "HU um mehr als 2 Monate überzogen → Erweiterte Untersuchung erforderlich → Bußgeld ab 15€ → Bei Unfall kann Versicherung Leistung kürzen",
+          "wichtigkeit": "HIGH"
+        },
+        {
+          "titel": "🔩 Tuning ohne Eintragung",
+          "klasse": "ALLE",
+          "beschreibung": "Fahrzeug getunt (Chip-Tuning, Sportauspuff) ohne Eintragung → Betriebserlaubnis erlischt automatisch! → Bei Kontrolle: Stilllegung + hohe Bußgelder möglich",
+          "wichtigkeit": "CRITICAL"
+        }
+      ]
+    },
+    {
+      "id": "1767032040875",
+      "gesetz": "StVZO",
+      "nummer": "§ 30c",
+      "titel": "§ 30c Vorstehende Außenkanten, Frontschutzsysteme",
+      "gesetzestext": "(1) Am Umriss der Fahrzeuge dürfen keine Teile so hervorragen, dass sie den Verkehr mehr als unvermeidbar gefährden.\n(2) Vorstehende Außenkanten von Personenkraftwagen müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.\n(3) Vorstehende Außenkanten von zweirädrigen oder dreirädrigen Kraftfahrzeugen nach § 30a Absatz 3 müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.\n(4) An Personenkraftwagen, Lastkraftwagen, Zugmaschinen und Sattelzugmaschinen mit mindestens vier Rädern, einer durch die Bauart bestimmten Höchstgeschwindigkeit von mehr als 25 km/h und einer zulässigen Gesamtmasse von nicht mehr als 3,5 t angebrachte Frontschutzsysteme müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.",
+      "quelle": "https://www.gesetze-im-internet.de/stvzo_2012/__30c.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767032055731",
+      "gesetz": "StVZO",
+      "nummer": "§ 30d",
+      "titel": "§ 30d Kraftomnibusse",
+      "gesetzestext": "(1) Kraftomnibusse sind Kraftfahrzeuge zur Personenbeförderung mit mehr als acht Sitzplätzen außer dem Fahrersitz.\n(2) Kraftomnibusaufbauten, die als selbstständige technische Einheiten die gesamte innere und äußere Spezialausrüstung dieser Kraftfahrzeugart umfassen, gelten als Kraftomnibusse nach Absatz 1.\n(3) Kraftomnibusse müssen den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen.\n(4) Kraftomnibusse mit Stehplätzen, die die Beförderung von Fahrgästen auf Strecken mit zahlreichen Haltestellen ermöglichen und mehr als 22 Fahrgastplätze haben, müssen zusätzlich den Vorschriften über technische Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität nach den im Anhang zu dieser Vorschrift genannten Bestimmungen entsprechen. Dies gilt für andere Kraftomnibusse, die mit technischen Einrichtungen für die Beförderung von Personen mit eingeschränkter Mobilität ausgestattet sind, entsprechend.",
+      "quelle": "https://www.gesetze-im-internet.de/stvzo_2012/__30d.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767032081839",
+      "gesetz": "StVZO",
+      "nummer": "§ 31",
+      "titel": "§ 31 Verantwortung für den Betrieb der Fahrzeuge",
+      "gesetzestext": "(1) Wer ein Fahrzeug oder einen Zug miteinander verbundener Fahrzeuge führt, muss zur selbstständigen Leitung geeignet sein.\n(2) Der Halter darf die Inbetriebnahme nicht anordnen oder zulassen, wenn ihm bekannt ist oder bekannt sein muss, dass der Führer nicht zur selbstständigen Leitung geeignet oder das Fahrzeug, der Zug, das Gespann, die Ladung oder die Besetzung nicht vorschriftsmäßig ist oder dass die Verkehrssicherheit des Fahrzeugs durch die Ladung oder die Besetzung leidet.",
+      "quelle": "https://www.gesetze-im-internet.de/stvzo_2012/__31.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1767032100251",
+      "gesetz": "StVZO",
+      "nummer": "§ 31a",
+      "titel": "§ 31a Fahrtenbuch",
+      "gesetzestext": "(1) Die nach Landesrecht zuständige Behörde kann gegenüber einem Fahrzeughalter für ein oder mehrere auf ihn zugelassene oder künftig zuzulassende Fahrzeuge die Führung eines Fahrtenbuchs anordnen, wenn die Feststellung eines Fahrzeugführers nach einer Zuwiderhandlung gegen Verkehrsvorschriften nicht möglich war. Die Verwaltungsbehörde kann ein oder mehrere Ersatzfahrzeuge bestimmen.\n(2) Der Fahrzeughalter oder sein Beauftragter hat in dem Fahrtenbuch für ein bestimmtes Fahrzeug und für jede einzelne Fahrt\n1.\nvor deren Beginn\na)\nName, Vorname und Anschrift des Fahrzeugführers,\nb)\namtliches Kennzeichen des Fahrzeugs,\nc)\nDatum und Uhrzeit des Beginns der Fahrt und\n2.\nnach deren Beendigung unverzüglich Datum und Uhrzeit mit Unterschrift einzutragen.\n(3) Der Fahrzeughalter hat\na)\nder das Fahrtenbuch anordnenden oder der von ihr bestimmten Stelle oder\nb)\nsonst zuständigen Personen\ndas Fahrtenbuch auf Verlangen jederzeit an dem von der anordnenden Stelle festgelegten Ort zur Prüfung auszuhändigen und es sechs Monate nach Ablauf der Zeit, für die es geführt werden muss, aufzubewahren.",
+      "quelle": "https://www.gesetze-im-internet.de/stvzo_2012/__31a.html",
+      "praxisbeispiele": []
     }
   ]
 }
